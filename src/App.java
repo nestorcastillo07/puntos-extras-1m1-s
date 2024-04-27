@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class App {     // Néstor Moises Castillo Garay 1m1-s 2024-1363u
 
     public static int num1;
     public static int num2;
